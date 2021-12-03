@@ -25,9 +25,9 @@ const createAndSavePerson = (done) => {
 };
 
 const arrayOfPeople = [
-  {name: "Clark", age: 24, favoriteFoods: ["Kryptonite"]},
-  {name: "Diana", age: 25, favoriteFoods: ["Noodles"]},
-  {name: "Bruce", age: 26, favoriteFoods: ["meat"]}
+  {name: "Jason", age: 24, favoriteFoods: ["Pizza"]},
+  {name: "Pollar", age: 25, favoriteFoods: ["Ramen"]},
+  {name: "Henry", age: 26, favoriteFoods: ["Sushi"]}
 ]
 
 
